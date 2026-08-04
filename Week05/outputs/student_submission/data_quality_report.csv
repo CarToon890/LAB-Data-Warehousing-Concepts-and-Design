@@ -1,0 +1,11 @@
+﻿metric,before,after
+Total rows,630,612
+Exact duplicate rows,18,0
+Missing Customer_Email,50,0
+Missing Province,12,0
+Invalid/imputed Order_Date,2,7
+Quantity out of business range (1-20),3,3
+Transaction_Amount mismatched formula (>1 baht),51,50
+"Outliers capped (non-promo, IQR)",19,0
+Late loads (>24h),38,38
+Invalid Order_Status,5,5
