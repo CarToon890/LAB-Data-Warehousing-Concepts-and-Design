@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Generated database files
+*.db
+
+# Lab2: keep the folder in the repo, but not its contents
+Lab2 Data Warehousing Concepts and Design/*
+!Lab2 Data Warehousing Concepts and Design/.gitkeep
